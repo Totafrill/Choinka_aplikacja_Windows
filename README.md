@@ -1,1 +1,1 @@
-# Choinka_aplikacja_Windows
+Projekt aplikacji Windows, testujący różne funkcje.
